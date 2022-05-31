@@ -1,5 +1,1 @@
-Yihang (Hailey) Xia Portfolio
-
-Credits:
-
-	HTML5 UP
+Yihang (Hailey) Xia Professional Portfolio
