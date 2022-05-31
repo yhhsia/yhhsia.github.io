@@ -1,5 +1,5 @@
 @import url(fontawesome-all.min.css);
-@import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,700,900");
+@import url('https://fonts.googleapis.com/css2?family=Lato&family=Noto+Sans&display=swap');
 
 /*
 	Phantom by HTML5 UP
@@ -199,8 +199,8 @@ input, select, textarea {
 		font-weight: 900;
 		line-height: 1.5;
 		margin: 0 0 2em 0;
-		text-transform: uppercase;
-		letter-spacing: 0.35em;
+		/* text-transform: uppercase; */
+		letter-spacing: 0.15em;
 	}
 
 		h2 a, h3 a, h4 a, h5 a, h6 a {
@@ -2355,9 +2355,8 @@ input, select, textarea {
 		.image.main {
 			display: block;
 			margin: 0 0 3em 0;
-			width: 100%;
+			width: 50%;
 		}
-
 			.image.main img {
 				width: 100%;
 			}
@@ -2706,15 +2705,15 @@ input, select, textarea {
 					}
 
 			.tiles article.style1 > .image:before {
-				background-color: #f2849e;
+				background-color: #a4f8f87a;
 			}
 
 			.tiles article.style2 > .image:before {
-				background-color: #7ecaf6;
+				background-color: #9ad2f3;
 			}
 
 			.tiles article.style3 > .image:before {
-				background-color: #7bd0c1;
+				background-color: #a3bbb6;
 			}
 
 			.tiles article.style4 > .image:before {
@@ -3167,6 +3166,7 @@ input, select, textarea {
 	#footer {
 		padding: 5em 0 6em 0 ;
 		background-color: #f6f6f6;
+		text-align: center;
 	}
 
 		#footer > .inner {
